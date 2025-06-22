@@ -65,11 +65,12 @@ python main.py
 
 🔍 Matching resumes to job descriptions...
 
-✅ john_smith.pdf → Best Match: jane_doe.pdf (Score: 0.88)
-✅ lisa_ray.pdf → Best Match: jane_doe.pdf (Score: 0.86)
-✅ resume_david_mlops.pdf → Best Match: job_mlops_specialist.pdf (Score: 0.86)
-✅ resume_michael_ai.pdf → Best Match: job_ai_engineer.pdf (Score: 0.85)
-✅ resume_sophia_frontend.pdf → Best Match: job_frontend_dev.pdf (Score: 0.85)
+- ✅ john_smith.pdf → Best Match: jane_doe.pdf (Score: 0.88)
+- ✅ lisa_ray.pdf → Best Match: jane_doe.pdf (Score: 0.86)
+- ✅ resume_david_mlops.pdf → Best Match: job_mlops_specialist.pdf (Score: 0.86)
+- ✅ resume_michael_ai.pdf → Best Match: job_ai_engineer.pdf (Score: 0.85)
+- ✅ resume_sophia_frontend.pdf → Best Match: job_frontend_dev.pdf (Score: 0.85)
+
 
 🧑‍💻 Built By
 Sravya Medaramitla

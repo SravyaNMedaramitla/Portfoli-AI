@@ -27,17 +27,7 @@ This project showcases practical skills in:
 
 ---
 
-## 📂 Project Structure
-PortfoliAI/
-├── main.py # Core script to run the matcher
-├── embedder.py # PDF embedding logic
-├── matcher.py # Cosine similarity matcher
-├── data/
-│ ├── resumes/ # Sample resumes (.pdf)
-│ └── jobs/ # Sample job descriptions (.pdf)
-├── .env.example # Template for secret key
-├── requirements.txt
-└── README.md
+<pre> ## 📂 Project Structure ``` PortfoliAI/ ├── main.py # Core script to run the matcher ├── embedder.py # PDF embedding logic ├── matcher.py # Cosine similarity matcher ├── data/ │ ├── resumes/ # Sample resumes (.pdf) │ └── jobs/ # Sample job descriptions (.pdf) ├── .env.example # Template for secret key ├── requirements.txt └── README.md ``` </pre>   
 
 ## 🚀 Setup Instrcutions
 
